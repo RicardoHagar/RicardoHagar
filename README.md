@@ -23,5 +23,5 @@ spending years deep in blockchain, my focus has shifted toward AI, automation, a
 
 ### 🌍 Connect With Me  
 [![Twitter](https://img.shields.io/badge/Twitter-@RichardShips-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/RichardShips)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Hagar-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardohagar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Hagar-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-h-b63148165)  
 [![GitHub](https://img.shields.io/badge/GitHub-RicardoHagar-000?logo=github&logoColor=white)](https://github.com/RicardoHagar)
