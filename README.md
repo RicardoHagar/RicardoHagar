@@ -5,7 +5,7 @@ These days, I’m building a new SaaS platform in the content creation space. I 
 spending years deep in blockchain, my focus has shifted toward AI, automation, and entrepreneurship. 
 
 ### 🚀 Currently Building  
-![Progress](https://img.shields.io/badge/Progress-80%25-brightgreen?style=for-the-badge&logo=progress)
+![Progress](https://img.shields.io/badge/Progress-10%25-brightgreen?style=for-the-badge&logo=progress)
 ![Status](https://img.shields.io/badge/Status-Building-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Content%20Creation-orange?style=for-the-badge)
 
