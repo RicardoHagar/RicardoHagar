@@ -4,7 +4,7 @@ I’m a software engineer with 4+ years of blockchain development experience (ma
 These days, I’m building a new SaaS platform in the content creation space. I am excited to share more about this in the future. After 
 spending years deep in blockchain, my focus has shifted toward AI, automation, and entrepreneurship. 
 
-### 🚀 Currently Building  
+### 🚀 Currently Building a new SaaS
 ![Progress](https://img.shields.io/badge/Progress-10%25-brightgreen?style=for-the-badge&logo=progress)
 ![Status](https://img.shields.io/badge/Status-Building-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Content%20Creation-orange?style=for-the-badge)
