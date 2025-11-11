@@ -1,10 +1,10 @@
-##👋 Hey, I'm Ricardo Hagar
+###👋 Hey, I'm Ricardo Hagar
 
 I'm a software engineer with 4+ years of Blockchain Development under the belt (Solidity) and a founder of multiple tech companies, currently building
 a new SaaS platform in the content creation space which I am super excited to share about more in the future. After having a deep dive in to the Blockchain 
 for a while I am now mostly interested in AI and entrepeneurship. 
 
-##🧠 What I Do
+###🧠 What I Do
 
 💻 Build full-stack and blockchain-enabled applications
 
@@ -14,7 +14,7 @@ for a while I am now mostly interested in AI and entrepeneurship.
 
 🚀 Turn ideas into MVPs and iterate fast
 
-##🛠️ Tech Stack
+###🛠️ Tech Stack
 
 TypeScript | React | Next.js | Node.js | Solidity | Python | PostgreSQL | AWS | Docker
 
