@@ -1,22 +1,25 @@
 ## 👋 Hey, I'm Ricardo Hagar
 
-I'm a software engineer with 4+ years of Blockchain Development under the belt (Solidity) and a founder of multiple tech companies, currently building
-a new SaaS platform in the content creation space which I am super excited to share about more in the future. After having a deep dive in to the Blockchain 
-for a while I am now mostly interested in AI and entrepeneurship. 
+I’m a software engineer with 4+ years of blockchain development experience (mainly Solidity) and the founder of several tech companies.
+These days, I’m building a new SaaS platform in the content creation space. I am excited to share more about this in the future. After 
+spending years deep in blockchain, my focus has shifted toward AI, automation, and entrepreneurship. 
 
-### 🧠 What I Do
-
-💻 Build full-stack and blockchain-enabled applications
-
-⚙️ Design scalable architectures for SaaS products
-
-🧩 Explore AI-driven tools that blend automation with creativity
-
-🚀 Turn ideas into MVPs and iterate fast
+### 🚀 Currently Building  
+![Progress](https://img.shields.io/badge/Progress-80%25-brightgreen?style=for-the-badge&logo=progress)
+![Status](https://img.shields.io/badge/Status-Building-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Content%20Creation-orange?style=for-the-badge)
 
 ### 🛠️ Tech Stack
 
-TypeScript | React | Next.js | Node.js | Solidity | Python | PostgreSQL | AWS | Docker
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ### 🌍 Connect With Me  
 [![Twitter](https://img.shields.io/badge/Twitter-@RichardShips-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/RichardShips)  
